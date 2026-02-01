@@ -1,20 +1,8 @@
 {
-  "id": "perfume-story",
   "name": "Perfume Story",
+  "slug": "perfume-story",
+  "category": "perfume",
+  "description": "ثيم أنيق لمتاجر العطور يركز على الإحساس، الهوية، وتجربة شراء راقية تحكي قصة كل عطر.",
   "brand": "Rooza Story",
-  "category": "عطور",
-  "target": "متاجر العطور والبخور",
-  "description": "ثيم أنيق وفخم مخصص لمتاجر العطور، يركز على الإحساس، الفخامة، وتجربة العميل من أول زيارة.",
-  "features": [
-    "ألوان فخمة تناسب العطور",
-    "عبارات تسويقية جاهزة",
-    "واجهة بسيطة وسلسة",
-    "مناسب لمتاجر سلة"
-  ],
-  "includes": {
-    "colors": "colors.json",
-    "marketing": "marketing.md"
-  },
-  "status": "ready",
   "version": "1.0.0"
 }
