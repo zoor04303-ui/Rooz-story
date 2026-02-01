@@ -1,0 +1,20 @@
+{
+  "id": "perfume-story",
+  "slug": "perfume-story",
+  "name": "Perfume Story",
+  "brand": "Rooza Story",
+  "category": "عطور",
+  "description": "ثيم مخصص لمتاجر العطور، بتصميم أنيق وواجهات جذابة تعزز تجربة العميل وتزيد معدل التحويل.",
+  "platform": "سلة",
+  "status": "ready",
+  "version": "1.0.0",
+  "price": 299,
+  "includes": [
+    "واجهة رئيسية مخصصة",
+    "ألوان متناسقة مع هوية العطور",
+    "عبارات تسويقية جاهزة",
+    "متوافق مع سلة"
+  ],
+  "created_by": "Rooza Story",
+  "license": "commercial"
+}
