@@ -1,20 +1,20 @@
 {
   "id": "perfume-story",
-  "slug": "perfume-story",
   "name": "Perfume Story",
   "brand": "Rooza Story",
   "category": "عطور",
-  "description": "ثيم مخصص لمتاجر العطور، بتصميم أنيق وواجهات جذابة تعزز تجربة العميل وتزيد معدل التحويل.",
-  "platform": "سلة",
-  "status": "ready",
-  "version": "1.0.0",
-  "price": 299,
-  "includes": [
-    "واجهة رئيسية مخصصة",
-    "ألوان متناسقة مع هوية العطور",
+  "target": "متاجر العطور والبخور",
+  "description": "ثيم أنيق وفخم مخصص لمتاجر العطور، يركز على الإحساس، الفخامة، وتجربة العميل من أول زيارة.",
+  "features": [
+    "ألوان فخمة تناسب العطور",
     "عبارات تسويقية جاهزة",
-    "متوافق مع سلة"
+    "واجهة بسيطة وسلسة",
+    "مناسب لمتاجر سلة"
   ],
-  "created_by": "Rooza Story",
-  "license": "commercial"
+  "includes": {
+    "colors": "colors.json",
+    "marketing": "marketing.md"
+  },
+  "status": "ready",
+  "version": "1.0.0"
 }
